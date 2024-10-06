@@ -1,0 +1,1 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/756d095dadb5d5795332/maintainability)](https://codeclimate.com/github/dimathicc/brain-games/maintainability)
